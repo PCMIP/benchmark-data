@@ -1,0 +1,543 @@
+"sitenum","sitename","poldiv1","latdd","londd","altitude"
+1,"Yéviédié","BEN",6.53,2.37,53
+2,"Ahakagyezi Swamp 1","UGA",-1.08,29.90,1830
+3,"Diogo 01","SEN",15.26,-16.80,8
+4,"Diogo 02","SEN",15.26,-16.80,8
+5,"Lake Guiers 1","SEN",16.11,-15.91,0
+6,"Lake Guiers 2","SEN",16.28,-15.83,1
+7,"Chemchane Sebkha 1","MRT",20.93,-12.21,256
+8,"Chemchane Sabkha 2","MRT",20.93,-12.21,256
+9,"Ngamakala Pound 1","COG",-4.07,15.38,400
+10,"Ngamakala Pound 2","COG",-4.07,15.38,400
+11,"Kaigama","NGA",13.25,11.56,330
+12,"Kajemarum Oasis","NGA",13.30,11.02,300
+13,"Lake Kitina","COG",-4.27,12.00,120
+14,"Kuluwu Oasis","NGA",13.21,11.55,330
+15,"Bois de Bilanko 1","COG",-3.51,15.35,600
+16,"Bois de Bilanko 2","COG",-3.51,15.35,600
+17,"Bois de Bilanko 3","COG",-3.51,15.35,600
+18,"Mare d'Oursi","BFA",14.65,-0.48,290
+19,"Lake Ossa 2","CMR",3.80,10.75,8
+20,"Oyo","SDN",19.26,26.18,510
+21,"Lake Sinnda 2","COG",-3.83,12.80,128
+22,"Lake Sinnda 3","COG",-3.83,12.80,128
+23,"Lake Tilla","NGA",10.39,12.12,690
+24,"Bal Lake","NGA",13.30,10.94,300
+25,"Bir Atrun","SDN",18.16,26.65,600
+26,"Dangbo","BEN",6.60,2.59,40
+27,"Goho","BEN",6.44,2.57,35
+28,"Selima Oasis","SDN",21.36,29.31,270
+29,"Lake Nokou‚ (So-Ava)","BEN",6.49,2.38,47
+30,"Tjéri","TCD",13.73,16.50,275
+31,"Thiaye","SEN",14.91,-17.50,1
+32,"Lake Abiyata II","ETH",7.61,38.61,1578
+33,"Lake Abiyata I","ETH",7.70,38.60,1578
+34,"Ahakagyezi Swamp 2","UGA",-1.11,29.90,1830
+35,"Lake Albert II","UGA",1.48,30.70,619
+36,"Lake Albert III","UGA",1.51,30.56,619
+37,"Lake Albert I","UGA",1.83,31.16,619
+38,"Mont Badda","ETH",7.87,39.37,4040
+39,"Lake Bogoria 2","KEN",0.20,36.16,990
+40,"Lake Bogoria 3","KEN",0.25,36.16,990
+41,"Mare de Kissi","BFA",14.61,-0.13,280
+42,"Lake Bujuku","UGA",0.36,29.90,3920
+43,"Lake Bunyonyi","UGA",-1.30,29.91,1950
+44,"Danka Valley Bog","ETH",7.86,38.78,3830
+45,"Dega Sala Swamp","ETH",7.81,39.33,3600
+46,"Lake Ikimba","TZA",-1.43,31.59,1150
+47,"Lake Hayk","ETH",11.35,39.71,1920
+48,"Kamiranzovu Swamp","RWA",-2.55,29.00,1950
+49,"Katenga Swamp","UGA",-1.20,29.81,1980
+50,"Kiizi Marsh","TZA",-1.41,31.77,1150
+51,"Lake Kimili I","KEN",1.10,34.56,4150
+52,"Lake Kimili II","KEN",1.10,34.56,4150
+53,"Lake Kitandara 1","UGA",0.35,29.88,3990
+54,"Lake Kitandara 2","UGA",0.35,29.88,3990
+55,"Koitoboss Bog","KEN",1.13,34.60,3940
+56,"Kuwasenkoko Swamp","RWA",-2.58,29.00,2340
+57,"Laboot Swamp I","KEN",0.95,34.63,2280
+58,"Laboot Swamp II","KEN",0.95,34.63,2280
+59,"Lake Langeno","ETH",7.51,38.71,1583
+60,"Matembe Marsh","TZA",-1.38,31.71,1150
+61,"Mukibongo Valley","BDI",-3.15,30.58,1540
+62,"Lake Tanganyika I","TZA",-8.46,30.86,773
+63,"Lake Tanganyika II","ZMB",-8.50,30.85,773
+64,"Ndurumu Swamp 1","BDI",-2.71,29.93,1363
+65,"Ndurumu Swamp 2","BDI",-2.71,29.96,1363
+66,"Nyamuswaga Valley","BDI",-2.90,29.98,1546
+67,"Tamsaa Swamp","ETH",7.13,39.76,3000
+68,"Lake Tilo","ETH",7.06,38.09,1545
+69,"Lake Victoria I","UGA",0.58,33.27,1139
+70,"Wenchi","ETH",8.75,37.90,2900
+71,"Albitrunca Cliff 1","NAM",-23.65,16.26,1600
+72,"Albitrunca Cliff 2","NAM",-23.65,16.26,1600
+73,"Ampasambazimba","MDG",-18.91,46.66,1000
+74,"Lake Andolonomby","MDG",-23.05,43.60,5
+75,"Coraf 2","COG",-4.75,11.85,1
+76,"Coraf 1","COG",-4.75,11.85,0
+77,"Kuiseb River (Harubes) 1","NAM",-23.65,15.33,1610
+78,"Kuiseb River (Harubes) 2","NAM",-23.65,15.33,1610
+79,"Hayla Cave","SOM",11.00,48.00,1800
+80,"Kashiru Swamp I","BDI",-3.47,29.57,2240
+81,"Kashiru Swamp II","BDI",-3.45,29.53,2240
+82,"Lake Kavitaha","MDG",-19.04,46.78,1210
+83,"Kuruyange 1","BDI",-3.58,29.68,2000
+84,"Kuruyange 2","BDI",-3.58,29.68,2000
+85,"Lake Albert (ou Lake Mobutu Sese Seko)","UGA",1.83,31.16,619
+86,"Lake Turkana","KEN",4.00,36.08,375
+87,"Musisi-Karashoma","DRC",-2.27,28.66,2200
+88,"Mahoma Lake","UGA",0.35,29.96,2960
+89,"Lake Masoko","TZA",-9.33,33.75,770
+90,"Matupi Cave","ZAR",1.50,30.00,1100
+91,"Mubwindi Swamp I","UGA",-1.08,29.75,2100
+92,"Mubwindi Swamp II","UGA",-1.08,29.75,2100
+93,"Muchoya Swamp I","UGA",-1.28,29.80,2260
+94,"Muchoya Swamp II","UGA",-1.28,29.80,2260
+95,"Pilkington Bay","UGA",0.30,33.33,1139
+96,"Rusaka swamp","BDI",-3.43,29.61,2070
+97,"Lake Tanganyika V","BDI",-4.02,29.33,773
+98,"Lake Tanganyika III","BDI",-4.51,29.33,773
+99,"Lake Tanganyika IV","ZAR",-4.96,29.36,773
+100,"Lake Mitsinjo","MDG",-16.03,45.85,9
+101,"Eastern Niger Delta","NGA",4.55,6.43,0
+102,"Lake Otjikoto","NAM",-19.16,17.91,1250
+103,"Songolo","COG",-4.76,11.86,5
+104,"Small Momela Lake","TZA",-3.21,36.91,1500
+105,"Windhoek","NAM",-22.63,17.08,1700
+106,"Rugezi I","RWA",-1.40,29.83,2050
+107,"Lake Tritrivakely I","MDG",-19.78,46.91,1800
+108,"Lake Tritrivakely II","MDG",-19.78,46.91,1778
+109,"Lake Victoria II","UGA",-0.97,33.45,1139
+110,"Lake Abijata","ETH",7.60,38.55,1578
+111,"Lake Bogoria 1","KEN",0.18,36.16,990
+112,"Khor 1","QAT",25.50,51.41,1
+113,"Khor M","QAT",25.50,51.42,1
+114,"Kiguhu II","RWA",-1.48,29.71,1800
+115,"KW31","ATL",3.51,5.56,0
+116,"Site 36","QAT",25.53,51.50,1
+117,"Butare","RWA",-2.61,29.75,1700
+118,"Emi Koussi","TCD",19.91,18.50,3000
+119,"Gasare Swamp","UGA",-2.46,29.23,2300
+120,"Lodoba","TCD",13.68,16.55,300
+121,"Lake Rukwa","TZA",-8.41,32.72,793
+122,"Fort Portal 1","UGA",0.66,30.27,1500
+123,"Fort Portal 2","UGA",0.66,30.27,1500
+124,"Hima - Kibale","UGA",0.88,30.37,1480
+125,"Lubulungu Delta 2","TZA",-6.16,29.71,773
+126,"Lubulungu Delta 1","TZA",-6.16,29.70,773
+127,"Mwamgongo River","TZA",-4.62,29.63,773
+128,"Nyamusenyi River","BDI",-3.61,29.34,773
+129,"Scout Hut Mire","KEN",1.00,34.50,3380
+130,"Stone Age Site","NAM",-23.66,15.36,1620
+131,"Kabesi River Delta","TZA",-5.97,29.81,773
+132,"Nyasanga/Kahama River","TZA",-4.68,29.61,773
+133,"Karonge/Kirasa River","BDI",-3.58,29.32,773
+134,"Badsfontein","ZAF",-30.76,25.81,1400
+135,"Base Section","ZAF",-31.15,25.01,1700
+136,"Blydefontein Section","ZAF",-30.13,25.01,1700
+137,"Blydefontein Stream Mouth 2","ZAF",-31.15,25.01,1700
+138,"Blydefontein Stream Mouth 97","ZAF",-31.15,25.08,1700
+139,"Channel 2","ZAF",-31.17,25.01,1700
+140,"Upper Section Pond","ZAF",-30.13,25.01,1700
+141,"Cornelia","ZAF",-28.50,28.41,1800
+142,"Craigrossie","ZAF",-28.53,28.46,1735
+143,"Elim Farm 1","ZAF",-28.48,28.40,1750
+144,"Elim Farm 2","ZAF",-28.48,28.40,1750
+145,"Elim Swamp","ZAF",-28.47,28.41,1890
+146,"Florisbad","ZAF",-28.76,26.06,1270
+147,"Deelpan Meriba 1","ZAF",-29.18,25.75,1321
+148,"Deelpan Meriba 2","ZAF",-29.18,25.75,1321
+149,"Deelpan","ZAF",-29.18,25.75,1300
+150,"Eksteenfontein","ZAF",-28.81,17.23,600
+151,"Gutter","ZAF",-31.13,25.08,1700
+152,"Meerkat Shelter midden","ZAF",-31.15,25.08,1700
+153,"Oppermanskop midden","ZAF",-31.13,25.02,1600
+154,"Pakhuis Pass","ZAF",-32.10,19.06,450
+155,"Rietvlei","ZAF",-25.83,28.33,1480
+156,"Rooiberg Shelter II","ZAF",-28.66,28.40,1980
+157,"Pretoria Saltpan","ZAF",-25.41,28.03,1150
+158,"Lake Teza","ZAF",-28.00,32.16,8
+159,"Tate Vondo","ZAF",-22.89,30.32,1100
+160,"Voordrag","ZAF",-27.74,31.32,940
+161,"Moreletta Stream","ZAF",-25.73,28.30,1310
+162,"Port Durnford","ZAF",-28.91,31.92,30
+163,"Uitzigt","ZAF",-28.83,24.83,1000
+164,"Wonderkrater 1","ZAF",-24.42,28.74,1100
+165,"Wonderkrater 2","ZAF",-24.42,28.74,1100
+166,"Wonderkrater 3","ZAF",-24.43,28.74,1100
+167,"Wonderkrater 4","ZAF",-24.43,28.74,1100
+168,"ODP Site 658 A","ATL",20.75,-18.58,0
+169,"ODP Site 658 B","ATL",20.75,-18.58,0
+170,"A180-48","ATL",15.31,-18.10,0
+171,"Baie de Bouéni","INO",-12.87,45.09,0
+172,"DSDP site 367","ATL",12.48,-20.03,0
+173,"GIK13289-2","ATL",18.07,-18.00,0
+174,"GIK 16867-1","ATL",-2.20,5.10,0
+175,"GIK 16867-2","ATL",-2.20,5.10,0
+176,"GIK 16867-3 (Meteor)","ATL",-2.20,5.10,0
+177,"Meteor GeoB 1008-3","ATL",-6.59,10.31,0
+178,"Meteor GeoB1016-3","ATL",-11.77,11.68,0
+179,"Meteor GeoB1023-5","ATL",-17.15,11.01,0
+180,"Meteor GeoB1028-5","ATL",-20.10,9.18,0
+181,"Meteor GeoB1710-3","ATL",-23.43,11.69,0
+182,"GIK 16776","ATL",3.73,-11.40,0
+183,"KS84-063","ATL",4.40,-4.18,0
+184,"Meteor 123-09-3","ATL",26.83,-15.11,0
+185,"Meteor 123-10-4","ATL",23.50,-17.21,0
+186,"Meteor 123-29-6, Cape Timiris","ATL",19.36,-19.91,0
+187,"Meteor 123-92-1","ATL",25.16,-16.85,0
+188,"Valdivia 132-18-1","ATL",12.03,-17.99,0
+189,"GIK 13239-1","ATL",13.87,-18.31,0
+190,"Meteor 156-27-3","ATL",29.16,-12.08,0
+191,"Meteor 156-69-1","ATL",34.88,-7.81,0
+192,"Meteor 160-04-1","ATL",29.98,-10.65,0
+193,"Meteor 160-17-2","ATL",21.25,-17.80,0
+194,"Meteor 16402-2","ATL",14.45,-20.54,0
+195,"Meteor 165-15-2","ATL",9.56,-19.10,0
+196,"Meteor 16416-2","ATL",9.86,-19.39,0
+197,"Meteor 16772-2","ATL",-1.35,-11.96,0
+198,"Meteor 30 (KL 184)","ATL",7.70,-14.39,0
+199,"Meteor 80-17B","ATL",33.61,-9.41,0
+200,"Meteor 80-57 B","ATL",37.68,-10.08,0
+201,"Mfabeni swamp","ZAF",-28.14,32.51,11
+202,"Rosilda","ATL",15.29,-16.93,0
+203,"ODP 159-958A","ATL",23.99,-20.00,0
+204,"Scot borehole 1","ZAF",-22.95,29.40,823
+205,"Wonderwerk Cave","ZAF",-27.84,23.55,1665
+206,"Butongo Swamp","UGA",-1.25,29.78,2025
+207,"Lake Edward","ZAR",-0.35,29.45,914
+208,"Elands Bay Cave","ZAF",-32.31,18.36,44
+209,"Equus Cave (coprolites)","ZAF",-27.60,24.61,1250
+210,"GIK 13209-2","ATL",12.48,-20.04,0
+211,"Meteor GIK 16856-2","ATL",4.80,3.40,0
+212,"Galana Boi Beds","KEN",3.70,36.98,400
+213,"Grootdrift Farm 1","ZAF",-32.39,18.45,40
+214,"Grootdrift Farm 2","ZAF",-32.38,18.45,720
+215,"al-Hawa","YEM",15.86,46.88,710
+216,"Lake Hardibo","ETH",11.23,39.76,2150
+217,"Hughdale Farm","ZAF",-31.15,25.06,1262
+218,"Kalwira","ZAR",-2.53,28.76,1920
+219,"Klaarfontein Spring","ZAF",-32.42,18.49,153
+220,"KS 12","ATL",3.86,-1.93,0
+221,"Muisbosskerm se Groot Sloot section","ZAF",-32.14,18.30,0
+222,"Mukukwe","ZAR",-2.50,28.55,1470
+223,"Mundafan","SAU",18.53,45.38,907
+224,"Crescent Island Crater Lake","KEN",-0.75,36.33,1885
+225,"ODP Site 175-1075","ATL",-4.78,10.07,0
+226,"Rooiberg Shelter I","ZAF",-28.51,28.41,1980
+227,"Sanzu Swamp","BDI",-3.35,30.38,1620
+228,"Spring Cave shelter","ZAF",-32.00,18.33,0
+229,"V22-196","ATL",15.83,-18.95,0
+230,"Vankervelvlei A","ZAF",-34.02,22.90,150
+231,"Vankervelvlei B","ZAF",-34.01,22.90,150
+232,"Meteor GeoB1711-4","ATL",-23.31,12.37,0
+233,"Ishiba Ngandu","ZMB",-11.25,31.75,1400
+234,"Mangrove of Suwayh 1","OMN",22.08,59.66,16
+235,"Mangrove of Suwayh 2","OMN",22.08,59.66,16
+236,"Baie de Saint Jean","MRT",19.47,-16.30,0
+237,"Lompoul","SEN",15.41,-16.71,3
+238,"Lake Ossa I","CMR",3.75,10.06,8
+239,"Potou","SEN",15.75,-16.50,11
+240,"Touba N'Diaye","SEN",15.16,-16.86,6
+241,"El Atrun","SDN",18.01,27.15,600
+242,"Nebenwadi - Enneri Achelouma","NER",22.16,12.93,650
+243,"Lake Emakat","TZA",-2.91,35.83,2300
+244,"DSDP530A (leg 75)","ATL",-19.18,9.38,0
+245,"DSDP532 (leg 75)","ATL",-19.73,10.51,0
+246,"Meteor GeoB1722-1","ATL",-29.48,11.75,0
+247,"KW23","ATL",-3.76,9.28,0
+248,"Orgon III KL10","ATL",21.00,-20.00,0
+249,"Orgon III KL 11","ATL",21.00,-19.00,0
+250,"Orgon III KL 14","ATL",21.00,-18.30,0
+251,"Orgon III KL 15","ATL",21.00,-18.50,0
+252,"Orgon III KS 10","ATL",21.00,-20.00,0
+253,"KS84067","ATL",4.12,-4.10,0
+254,"T89-16","ATL",-5.70,11.23,0
+255,"Rufisque","ATL",14.63,-17.21,0
+256,"Lake Sélé","BEN",7.15,2.43,8
+257,"Gauxa Lagoon","BWA",-18.39,21.85,1034
+258,"Ncamasere Valley 2","BWA",-18.60,22.02,986
+259,"Ncamasere Valley 3","BWA",-18.60,22.02,985
+260,"Ncamasere Valley 4","BWA",-18.60,22.02,985
+261,"Tamacha Valley","BWA",18.85,22.27,565
+262,"Yobri","BFA",11.75,1.68,217
+263,"Chaine de Gobnangou","BFA",11.80,1.80,243
+264,"Tindangou","BFA",11.73,1.65,217
+265,"Gatovu swamp","BDI",-2.53,30.05,1350
+266,"Buyongwe 2","BDI",-2.80,29.91,1366
+267,"Buyongwe 3","BDI",-2.80,29.91,1366
+268,"Lake Tanganika Bur17","BDI",-3.52,29.17,773
+269,"Lake Barombi-Mbo","CMR",4.65,9.40,300
+270,"Lake Ossa 3","CMR",3.78,10.02,8
+271,"Lake Assom","CMR",6.63,12.98,900
+272,"C61 (Gulf of Guinea)","CMR",3.41,9.30,0
+273,"CF (Gulf of Guinea)","CMR",3.66,9.18,0
+274,"Mboandong","CMR",4.50,9.40,319
+275,"Bafounda","CMR",5.53,10.33,1192
+276,"Lake Njupi","CMR",6.45,10.31,1150
+277,"Enneri Tabi","TCD",21.33,17.05,1975
+278,"Enneri Tabi (Profil 4)","TCD",21.33,17.05,2080
+279,"Bwamba pass1","UGA",0.68,30.12,2500
+280,"Kaortchi","TCD",18.58,18.91,409
+281,"Yogoum","TCD",16.50,19.83,350
+282,"Tjolumi","TCD",21.51,17.13,1115
+283,"Ngamakala Pound","COG",-4.07,15.38,400
+284,"Lake Goualougo","COG",2.15,16.50,387
+285,"Lupembashi II","DRC",-11.11,27.12,1150
+286,"Kamoa","DRC",-10.56,25.35,1150
+287,"Chilga","ETH",12.58,37.10,2000
+288,"Fejej","ETH",4.50,36.33,835
+289,"Langeno 3","ETH",7.66,38.72,1585
+290,"Hadar","ETH",11.00,40.50,500
+291,"Lake Shalla","ETH",7.46,38.50,1558
+292,"Orgoba 3","ETH",7.08,39.66,3380
+293,"Orgoba 4","ETH",7.13,39.73,3380
+294,"Simbiro","ETH",7.16,39.73,3275
+295,"Lake Kamalété","GAB",-0.71,11.76,350
+296,"Lake Bosumtwi","GHA",6.50,-1.41,100
+297,"MD 79-257","INO",-20.40,36.33,0
+298,"RC27-14","INO",15.41,58.10,0
+299,"RC27-28","INO",18.50,57.98,0
+300,"Hole 721B","INO",16.67,59.85,0
+301,"Hole 723 A/B","INO",18.05,58.43,0
+302,"MD 76 135","INO",14.44,50.52,0
+303,"MD 76 136","INO",12.87,46.80,0
+304,"MD 77 202","INO",19.22,60.66,0
+305,"Agnéby","CIV",5.33,-4.25,6
+306,"Soil pit 6/2","KEN",0.73,36.45,1785
+307,"Lake Nguène","GAB",-0.20,10.46,20
+308,"Lake Maridor","GAB",-0.16,9.35,5
+309,"Kaisungor Swamp","KEN",1.20,35.46,2900
+310,"Lake Rutundu core A","KEN",-0.16,37.31,3140
+311,"Lake Rutundu core B","KEN",-0.16,37.31,3140
+312,"Sacred Lake","KEN",0.05,37.53,2440
+313,"Lake Magadi NF1","KEN",-1.83,36.30,600
+314,"Kanderi swamp","KEN",-3.35,38.67,400
+315,"Lake Jipe","KEN",-2.64,37.77,700
+316,"Lake Naivasha","KEN",-0.75,36.33,1890
+317,"Lake Elmenteita","KEN",-0.45,36.25,1176
+318,"Hobley valley","KEN",0.18,37.32,4265
+319,"Karimu","KEN",-0.50,36.68,3040
+320,"Small Hall Tarn","KEN",-9.00,37.35,4289
+321,"Lake Rutundu core R1","KEN",-0.03,37.43,3078
+322,"Kaisungor Swamp core A","KEN",1.20,35.46,2900
+323,"Tsoaing River Valley","LSO",-29.75,27.50,1708
+324,"Lake Itasy B 127","MDG",-19.00,46.50,1230
+325,"Maranakely B 82","MDG",-14.00,48.00,900
+326,"Torotorofotsy (swamp) B 26","MDG",-19.00,48.50,956
+327,"Vinaninony (swamp) B 23","MDG",-19.01,46.49,1875
+328,"Mwala II","MWI",-10.58,33.71,2606
+329,"Mwala III","MWI",-10.58,33.71,2606
+330,"Taoudenni Agorgott MT 7","MLI",22.50,-4.00,120
+331,"Taoudenni Agorgott MT 7bis","MLI",22.50,-4.00,120
+332,"Sebkha de Taoudenni","MLI",22.66,-4.00,120
+333,"Ounjougou","MLI",14.30,-3.71,400
+334,"Chami","MRT",20.28,-16.20,0
+335,"Morzouba","MRT",20.96,-16.83,0
+336,"Tintan","MRT",20.96,-16.83,0
+337,"Lake Nhaucati core Bp IV","MOZ",-22.00,35.33,61
+338,"Lake Xiroche Bp II","MOZ",-22.00,35.32,58
+339,"Sling Cliff (SC)","NAM",-23.65,15.35,1615
+340,"Falls Rock Shelter","NAM",-21.12,14.55,1980
+341,"Sossus Vlei","NAM",-25.30,15.51,750
+342,"Brandberg","NAM",-21.13,14.58,2000
+343,"Elki Guernana","NER",19.11,12.90,398
+344,"Ari Koukouri ca.","NER",13.91,13.10,270
+345,"Ari Koukouri ca.bis","NER",13.91,13.10,270
+346,"Seguedine","NER",20.16,12.78,412
+347,"Termit","NER",16.20,11.06,450
+348,"Bilma","NER",18.68,12.91,350
+349,"Arrigui","NER",19.05,12.90,450
+350,"GD 95-1","NGA",13.25,11.56,330
+351,"Khawr Al Balid 1","OMN",17.00,54.33,0
+352,"Khawr Al Balid 3","OMN",17.00,54.33,0
+353,"Khawr Rawri 2","OMN",17.03,54.40,674
+354,"Khawr Rawri 4","OMN",17.03,54.40,662
+355,"Shanga","CAF",3.17,16.10,570
+356,"Butambwa","RWA",-2.53,29.66,1750
+357,"Kamiranzovu swamp","RWA",-2.46,29.13,1950
+358,"Karisoke","RWA",-1.48,29.50,3020
+359,"Kiguhu KIG III","RWA",-1.48,29.71,1800
+360,"Marais de Cyabaralika CYA I","RWA",-1.50,29.70,1800
+361,"Marais de Cyabaralika CYA II","RWA",-1.50,29.70,1800
+362,"Kabuye","RWA",-2.60,29.83,1700
+363,"Kibuga valley","RWA",-2.60,29.83,1700
+364,"Kiguhu KIG I","RWA",-1.48,29.71,1800
+365,"Rub'al-Khali 3","SAU",19.42,46.68,697
+366,"Rub'al-Khali 2","SAU",21.87,49.71,214
+367,"Rub'al-Khali 1","SAU",17.58,46.30,763
+368,"Jebel Ghiran","SAU",20.65,46.73,476
+369,"an Nafud (profil 2)","SAU",27.85,41.43,886
+370,"an Nafud (profil 3)","SAU",27.90,41.31,909
+371,"an Nafud (profil 4)","SAU",28.01,41.15,839
+372,"an Nafud (profil 5)","SAU",28.10,41.36,819
+373,"an Nafud (profil 6)","SAU",28.45,41.21,868
+374,"an Nafud (profil 7)","SAU",28.45,41.22,868
+375,"As Sirr","SAU",26.18,44.33,652
+376,"Djebel Asmar","SAU",25.80,43.01,736
+377,"Anambé","SEN",12.91,-14.13,63
+378,"Bogué","SEN",16.58,-14.28,37
+379,"Tanma","SEN",14.85,-17.06,250
+380,"Keur Marsal","SEN",16.53,-16.25,22
+381,"Ogo","SEN",15.56,-13.28,35
+382,"Tanma 1-4","SEN",14.91,-17.50,0
+383,"Balingor","SEN",12.50,-16.50,0
+384,"Tobor","SEN",12.66,-16.33,16
+385,"Soetendalsvlei","ZAF",-34.71,19.96,73
+386,"Voëlvlei I","ZAF",-34.66,19.88,236
+387,"Voëlvlei II","ZAF",-34.65,19.88,211
+388,"Voëlvlei III","ZAF",-34.66,19.88,238
+389,"Namaqualand H2","ATL",-28.87,16.53,218
+390,"Namaqualand H7","ZAF",-29.68,17.00,65
+391,"Tsoaing sequence","ZAF",-29.76,27.53,1708
+392,"Cederberg Range-Driehoek Vlei","ZAF",-32.43,19.13,900
+393,"Sneeuberg Vlei","ZAF",-32.43,19.13,900
+394,"Aliwal North","ZAF",-30.65,26.35,1370
+395,"Noordhoek","ZAF",-34.11,18.36,0
+396,"Groenvlei I","ZAF",-33.80,22.86,0
+397,"Groenvlei II","ZAF",-33.80,22.86,0
+398,"Hangklip","ZAF",-34.32,18.90,45
+399,"Sterkfontein cave","ZAF",-31.55,25.66,1224
+400,"Scot borehole 2","ZAF",-22.95,29.40,823
+401,"Winterberg","ZAF",-32.45,26.33,1240
+402,"Nuweveldberg","ZAF",-32.17,22.30,1040
+403,"Wonderwerk Cave_2","ZAF",-27.84,23.55,1666
+404,"Florisbad (B)","ZAF",-28.77,26.17,1270
+405,"Vasi Plan","ZAF",-27.20,32.13,79
+406,"Nhlangu","ZAF",-26.10,32.81,15
+407,"Mdlanzi","ZAF",-27.60,32.46,40
+408,"Mgobezeleni","ZAF",-27.53,32.65,10
+409,"Majiji","ZAF",-27.13,32.66,70
+410,"Oyster Bay","ZAF",-34.15,24.61,40
+411,"Boomplaas Cave","ZAF",-33.68,21.38,646
+412,"Bokkraal Vlei","ZAF",-32.28,21.98,1082
+413,"Kathu Pan","ZAF",-27.75,23.03,1170
+414,"Equus cave","ZAF",-27.60,24.60,1250
+415,"El Geili Section D3","SDN",16.00,33.00,300
+416,"Kalambo Falls","TZA",-8.58,31.21,1150
+417,"Longil Lake","TZA",-3.25,36.88,1500
+418,"Kilimanjaro","TZA",-3.08,37.38,2650
+419,"Munsa II_1","UGA",0.82,31.30,1234
+420,"Munsa II_2","UGA",0.82,31.30,1252
+421,"Munsa II_3","UGA",0.82,31.30,1252
+422,"Bwamba pass2","UGA",0.68,30.12,2500
+423,"Bwamba pass3","UGA",0.68,30.12,2500
+424,"Mubwinbi Swamp","UGA",-1.07,29.75,2100
+425,"Hima","UGA",0.88,30.37,1480
+426,"Bujuku Bog","UGA",0.36,29.90,3900
+427,"Kankoko Swamp","UGA",0.36,31.61,2870
+428,"Muchoya Swamp","UGA",-1.35,29.70,2256
+429,"Ruwenzori - Bujuku valley","UGA",0.36,30.00,3400
+430,"Kahuka","UGA",0.36,30.20,2300
+431,"Lume Bog","UGA",0.36,30.20,3950
+432,"Mahoma Bog","UGA",0.66,30.00,2950
+433,"Kabata swamp","UGA",0.48,30.26,1370
+434,"Mleiha","ARE",24.88,55.80,208
+435,"Awafi","ARE",25.70,55.92,0
+436,"Bangwelu Lake","ZMB",-15.00,26.00,1000
+437,"Lake Tanganyika Mpu3","ZMB",-8.50,30.61,773
+438,"Lake Tana","ETH",12.00,37.25,1830
+439,"Hadar_2","ETH",11.10,40.58,500
+440,"Gadeb","ETH",7.00,39.00,2300
+441,"Wadi Shaw","SDN",20.36,27.15,500
+442,"Wandakara Lake","UGA",0.41,30.26,1170
+443,"AMEKNI","DZA",22.78,5.51,1000
+444,"Lake Haubi LH 92-3_7","TZA",-4.78,35.95,1670
+445,"Vridi 6","CIV",5.25,-3.96,0
+446,"Angéla-Kété","TCD",15.83,15.35,330
+447,"Adrar Bous","NER",20.31,8.98,700
+448,"South-west Fourtchiak","TCD",15.95,15.45,420
+449,"Gabrong I Ã  VI Enneri Dirennao","TCD",21.75,17.16,1115
+450,"Assinie","CIV",5.13,-3.31,75
+451,"Atakor","DZA",23.13,5.41,1800
+452,"BILGOY Enneri Dirennao","TCD",21.51,17.17,1135
+453,"Dassle Rock","NAM",-23.58,15.06,1550
+454,"Dassle Rck","NAM",-23.58,15.06,1550
+455,"Kamala","TCD",14.03,16.31,420
+456,"Kasenda Lake","UGA",0.43,30.28,1260
+457,"Kouka","TCD",13.10,15.63,283
+458,"Lake Malawi","MWI",-11.36,34.71,470
+459,"Lake Malaw","MWI",-13.01,34.52,470
+460,"Tarso Yega","TCD",20.66,17.58,2200
+461,"Lake Télé","COG",1.33,17.16,350
+462,"Tjolumi C Enneri Dirennao","TCD",21.51,18.13,1115
+463,"Mandi","TCD",13.38,14.75,276
+464,"Mouskorbé","TCD",21.58,18.88,2600
+465,"Trou au Natron 688_690","TCD",21.05,16.75,1850
+466,"Ouanofou","TCD",21.33,17.50,1150
+467,"Oued Outoul","DZA",22.88,5.35,1430
+468,"Wadi Shati","LBY",27.50,13.83,305
+469,"Shum Lake","CMR",5.85,10.05,1355
+470,"Garba Guracha","ETH",6.86,39.85,4000
+471,"Taessa","DZA",23.16,5.51,2150
+472,"Nemra","TCD",16.30,16.55,200
+473,"IVCO3","CIV",5.10,-3.51,0
+474,"Lake Abhé","DJI",11.00,42.00,240
+475,"Drotsky's Cave","BWA",-20.00,23.00,0
+476,"Messak Settafet","LBY",25.35,11.43,1100
+477,"Uan Afuda Cave","LBY",24.86,10.50,922
+478,"Uan Muhuggiag","LBY",24.84,10.51,915
+479,"Uan Tabu","LBY",24.85,10.52,915
+480,"Rugezi II","RWA",-1.40,29.83,2050
+481,"Plateau du Mangueni","NER",22.28,12.73,650
+482,"Tamarisken - Hügels von Zouzoudinga","NER",22.46,12.30,650
+483,"Enneri Serde","TCD",21.36,17.00,2412
+484,"Enneri Bardagué","TCD",21.41,16.91,1135
+485,"Tamarisken-Hügel - Bardagué","TCD",22.73,16.62,688
+486,"Tamarisken-Hügel _ Oase Wau el Kebir","LBY",25.50,16.78,540
+487,"Yebbi Bou - Yebbigué","TCD",20.86,18.04,1440
+488,"Ijenda I","BDI",-3.48,29.55,2150
+489,"Calunda","AGO",-7.35,20.84,669
+490,"Furi","AGO",-7.35,20.84,669
+491,"Malumba","AGO",-7.35,20.84,677
+492,"Mufo_1","AGO",-7.35,20.84,669
+493,"Mufo_2","AGO",-7.35,20.84,677
+494,"Mufo_3","AGO",-7.35,20.84,669
+495,"Nebenwadi - Enneri Achelouma 10a","NER",22.13,12.91,650
+496,"Nebenwadi - Enneri Achelouma 12","NER",22.35,12.70,650
+497,"Nebenwadi - Enneri Achelouma 13","NER",22.35,12.70,650
+498,"Nebenwadi - Enneri Achelouma 9","NER",22.16,12.93,650
+499,"Mufo_4","AGO",-6.64,20.84,610
+500,"Ouan Muhuggiag","LBY",24.91,10.58,900
+501,"Wadi Teshuinat","LBY",24.83,10.43,915
+502,"Tin-n-Torha","LBY",25.80,10.57,750
+503,"In Ecker","DZA",24.00,5.50,1443
+504,"Trou au Natron Erg T63-64_Ka46","TCD",21.05,16.75,1850
+505,"Vrede Huab river","NAM",-20.32,14.16,540
+506,"Brandberg_2","NAM",-21.07,14.58,1800
+507,"Okandjombo","NAM",-18.25,12.85,824
+508,"Webi Schebelli Melka Ouacana","ETH",9.61,38.50,2400
+509,"Kella IV Awash Valley","ETH",8.75,38.50,2026
+510,"Touka Awash Valley","ETH",8.75,38.50,2700
+511,"Garba I Awash Valley","ETH",8.75,38.50,2025
+512,"Garba A Awash Valley","ETH",8.75,38.50,2025
+513,"Garba B Awash Valley","ETH",8.75,38.50,2025
+514,"Gomboré, Awash Valley","ETH",8.75,38.50,2025
+515,"Butte Kella Awash Valley","ETH",8.75,38.50,2025
+516,"Falaise Kella Awash Valley","ETH",8.75,38.50,2025
+517,"Shungura, Vallée de l'OMO","ETH",5.03,36.05,400
+518,"Fort Ternan","KEN",0.20,35.35,1812
+519,"Koobi Fora","KEN",2.75,36.25,365
+520,"Laetoli","TZA",-3.21,35.21,1160
+521,"Peninj","TZA",-2.14,36.24,750
+522,"Olduvai Gorge Bed 1_2","TZA",-2.99,35.35,1480
+523,"Pakhuis Pass_1166","ZAF",-32.10,19.06,450
+524,"Pakhuis Pass_1168","ZAF",-32.10,19.06,450
+525,"Pakhuis Pass_1173","ZAF",-32.10,19.06,450
+526,"Pakhuis Pass_864","ZAF",-32.10,19.06,450
+527,"Kakala","DRC",-2.18,28.42,2375
+528,"Mugera","DRC",-2.39,29.52,1550
+529,"Kamagema","DRC",-2.26,28.48,1510
+530,"Bokuma-Isoku","DRC",-0.08,18.66,350
+531,"Imbonga","TZA",-0.70,19.71,350
+532,"ODP 1078","ATL",-11.92,13.40,426
+533,"Iringa","TZA",-7.81,35.91,2100
+534,"Shitlhava Dam","ZAF",-25.14,31.32,614
+535,"Nyamundwa Dam","ZAF",-25.02,31.33,985
+536,"Jikariya Lake","NGA",13.31,11.07,337
+537,"Sibaya Lake","ZAF",-27.35,32.68,0
+538,"Tiguent","MRT",17.25,-16.01,0
+539,"Tiguent2","MRT",17.25,-16.01,0
+540,"Loupoux","DZA",37.08,7.60,1200
+541,"azeazez","FRO",15.08,-15.08,44
+542,"Burullus lake","EGY",31.46,30.83,0
