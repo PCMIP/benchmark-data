@@ -1,16 +1,17 @@
+
 library(dplyr)
 library(reshape2)
 
-pollen <- readr::read_csv('Pollen/Whitmore/Raw/PollenData.csv')
-transition <- readr::read_csv('Pollen/Whitmore/Raw/TaxonConversion.csv')
+pollen <- readr::read_csv('Pollen/Whitmore/raw/PollenData.csv')
+transition <- readr::read_csv('Pollen/Whitmore/raw/TaxonConversion.csv')
 
 geog <- pollen %>% select(ID2, LONDD, LATDD, ELEVATION)
 
-metadata <- pollen %>% select(ID2, DepEnv, DataForm, YrOfSamp)
+metadata <- pollen %>% select(ID2, SITENAME, DepEnv, DataForm, YrOfSamp)
 
 pollen_out <- pollen %>% 
   select(ID2, unique(transition$Original)) %>% 
-  melt()
+  melt(id.vars = "ID2")
 
 pollen_out$clean <- transition$Modified[match(pollen_out$variable, transition$Original)]
 # NOTE: RC is really the only one we need.
@@ -29,3 +30,4 @@ whitmore_object <- list(pollen = pollen_clean,
                         geog = geog)
 
 saveRDS(whitmore_object, 'Pollen/Whitmore/whitmore_pollen.rds')
+
