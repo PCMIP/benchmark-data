@@ -27,7 +27,7 @@ Modern pollen data for North America from the Whitmore et al. 2005 pollen databa
 
 * East West:
   * Range and site overlap information.
-  
-  ## Distribution of sites
+
+## Distribution of sites
 
 ![Map](Map.png)
