@@ -42,8 +42,8 @@ wc5=cbind(whitmoreSS$geog,extractWorldclim(whitmoreSS$geog[,c('LONDD','LATDD')],
 wc2.5=cbind(whitmoreSS$geog,extractWorldclim(whitmoreSS$geog[,c('LONDD','LATDD')],"bio", c(1), 2.5)[,3])
 wc0.5=cbind(whitmoreSS$geog,extractWorldclim(whitmoreSS$geog[,c('LONDD','LATDD')],"bio", c(1), 0.5)[,3])
 
-colnames(wc10)=colnames(wc5)=colnames(wc2.5)=colnames(wc0.5)=c('SITENAME','LONDD','LATDD','ELEVATION','Tann')
-write.csv(wc10, file="/Users/mchevali1/GitHub/PCMIP/benchmark-data/Pollen/Whitmore/whitmore_worldclim_10min.csv")
-write.csv(wc5, file="/Users/mchevali1/GitHub/PCMIP/benchmark-data/Pollen/Whitmore/whitmore_worldclim_5min.csv")
-write.csv(wc2.5, file="/Users/mchevali1/GitHub/PCMIP/benchmark-data/Pollen/Whitmore/whitmore_worldclim_2.5min.csv")
-write.csv(wc0.5, file="/Users/mchevali1/GitHub/PCMIP/benchmark-data/Pollen/Whitmore/whitmore_worldclim_0.5min.csv")
+colnames(wc10)=colnames(wc5)=colnames(wc2.5)=colnames(wc0.5)=c('ID2','LONDD','LATDD','ELEVATION','Tann')
+write.csv(wc10, file="/Users/mchevali1/GitHub/PCMIP/benchmark-data/Pollen/Whitmore/whitmore_worldclim_10min.csv", row.names=FALSE)
+write.csv(wc5, file="/Users/mchevali1/GitHub/PCMIP/benchmark-data/Pollen/Whitmore/whitmore_worldclim_5min.csv", row.names=FALSE)
+write.csv(wc2.5, file="/Users/mchevali1/GitHub/PCMIP/benchmark-data/Pollen/Whitmore/whitmore_worldclim_2.5min.csv", row.names=FALSE)
+write.csv(wc0.5, file="/Users/mchevali1/GitHub/PCMIP/benchmark-data/Pollen/Whitmore/whitmore_worldclim_0.5min.csv", row.names=FALSE)
