@@ -15,13 +15,14 @@ Link: [Raw dataset as zip](http://www.lpc.uottawa.ca/data/modern/whitmoreetal200
 ### Neotoma
 
 **Source**: [Netoma Paleoecological Database](http://neotomadb.org)
+
 Link: 
-Publication: Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. *Quaternary Research*, 89:156-177. [open access link](https://doi.org/10.1017/qua.2017.105)
+
+**Publication**: Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. *Quaternary Research*, 89:156-177. [open access link](https://doi.org/10.1017/qua.2017.105)
 
 ### BCMPD
 
 Source:
-Link:
 
 
 ### European Modern Pollen Database
@@ -38,6 +39,9 @@ Flags/Checks:
 **Flags/Checks**: Use the file on github, not the database on the above website
 
 **Citations**: Gajewski, K, A-M Lezine, A Vincens, A Delestan, M Sawada and APD members. 2002. Climate-vegetation-pollen relations in Africa and adjacent areas. *Quaternary Science Reviews*. 21: 1611-1631. [doi.org/10.1016/S0277-3791(01)00152-4] (https://www.sciencedirect.com/science/article/pii/S0277379101001524)
+
+Vincens A, Lézine, A-M, Buchet G, Lewden D, Le Thomas, A, Contributors. 2007. African pollen database inventory of tree and shrub pollen types. *Review of Palaeobotany and Palynology* 145, 135–141. doi:10.1016/j.revpalbo.2006.09.004 
+
 
 ## Climate
 
