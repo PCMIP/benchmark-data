@@ -20,7 +20,7 @@ Modern pollen data for North America from the Whitmore et al. 2005 pollen databa
   * Information about natural and potential vegetation derived from cartographic sources and earth observation satellite sensors
 
 * Positional Errors:
-  * Some identified location errors.
+ * Some identified location errors.
 
 * Removed Pollen Sites:
  * Some sites that should not be included in the database.
