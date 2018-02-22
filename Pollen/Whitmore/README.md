@@ -4,7 +4,7 @@ Modern pollen data for North America from the Whitmore et al. 2005 pollen databa
 
 ## Distribution of sites
 
-![Map](/Map.pdf)
+![Map](Map.png)
 
 ## Description of files:
 
