@@ -17,10 +17,7 @@ Modern pollen data for North America from the Whitmore et al. 2005 pollen databa
   * Information about temperature, growing degree days, evapotranspiration, precipitation and insolation.
 
 * AVHRR:
-  * Information about natural and potential vegetation derived from cartographic sources and earth observation satellite sensors
-
-* Positional Errors:
- * Some identified location errors.
+  * Information about natural and potential vegetation derived from cartographic sources and earth observation satellite sensors.
 
 * Positional Errors:
  * Some identified location errors.
