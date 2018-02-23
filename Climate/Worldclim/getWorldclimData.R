@@ -15,11 +15,11 @@ extractWorldclim=function(xy, table='bio', variable='bio1', resolution=10){
     xx=seq(xmin+15, xmax, 30)
     yy=seq(ymin+15, ymax, 30)
 
-    climatology <- getData("worldclim",var=table,res=resolution, lon=xmin+15, lat=ymin+15)[[variable]]
+    climatology <- getData("worldclim",var=table,res=resolution, lon=xmin, lat=ymin)[[variable]]
     for(x in xx){
       for(y in yy){
         if(x != xx[1] | y != yy[1]){
-          climatology = merge(climatology, getData("worldclim",var=table,res=resolution, lon=x+15, lat=y+15)[[variable]], overlap=FALSE)
+          climatology = merge(climatology, getData("worldclim",var=table,res=resolution, lon=x, lat=y)[[variable]])
         }
       }
     }
