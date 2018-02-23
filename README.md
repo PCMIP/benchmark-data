@@ -9,6 +9,7 @@ This repository will contain two sets of data; climate data and pollen data. Thi
 **Source**: Whitmore et al. (2005) North American modern pollen dataset hosted by the Laboratory for Paleoclimatology and Climatology at the University of Ottawa
 
 **Link**: [Link to main main page with dataset](http://www.lpc.uottawa.ca/data/modern/index.html)
+
 **Link**: [Link to dataset as zip file](http://www.lpc.uottawa.ca/data/modern/whitmoreetal2005_v1-8.zip)
 
 **Publication**: Whitmore, J, Gajewski, K, Sawada, M, Williams, JW, Minckley, T, Shuman, B, Bartlein, PJ, Webb, T, III, Viau, AE, Shafer, S, Anderson, P, & Brubaker, LB. 2005. Modern pollen data from North America and Greenland for multi-scale paleoenvironmental applications. *Quaternary Science Reviews* **24**(16-17):1828-1848. [DOI: 10.1016/j.quascirev.2005.03.005](https://www.sciencedirect.com/science/article/pii/S0277379105000934)
