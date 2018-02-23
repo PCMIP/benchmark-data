@@ -16,7 +16,7 @@ This repository will contain two sets of data; climate data and pollen data. Thi
 
 ### Neotoma Paleoecology Database
 
-**Source**: [Netoma Paleoecological Database](http://neotomadb.org)
+**Source**: [Neotoma Paleoecology Database](http://neotomadb.org)
 
 **Link**: [neotomadb.org](http://neotomadb.org) 
 
