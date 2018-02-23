@@ -7,7 +7,7 @@ This repository will contain two sets of data, climate data and pollen data.  Th
 ### NAMPD
 
 **Source**: Whitmore et al dataset hosted at the LPC, University of Ottawa.
-Link: [LPC website with raw dataset](http://http://www.lpc.uottawa.ca)
+Link: [LPC website with raw dataset](http://www.lpc.uottawa.ca/data/modern/index.html)
 Link: [Raw dataset as zip](http://www.lpc.uottawa.ca/data/modern/whitmoreetal2005_v1-8.zip)
 
 **Publication**: Whitmore, J., Gajewski, K., Sawada, M., Williams, J.W., Minckley, T., Shuman, B., Bartlein, P.J., Webb, T., III, Viau, A.E., Shafer, S., Anderson, P. & Brubaker, L.B. (2005) A North American Modern Pollen Database for Multi-scale Paleoecological and Paleoclimatic Applications. Quaternary Science Reviews 24:1828-1848. [DOI: 10.1016/j.quascirev.2005.03.005](https://www.sciencedirect.com/science/article/pii/S0277379105000934)
