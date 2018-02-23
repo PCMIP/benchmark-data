@@ -1,36 +1,43 @@
-# benchmark-data
+# Benchmark-data
 
-This repository will contain two sets of data, climate data and pollen data.  This repository is intended to act as the primary resource for data to be used in the Benchmarking tests.  The directory contains primary Pollen and Climate data, along with any scripts used to transform the data
+This repository will contain two sets of data; climate data and pollen data. This repository is intended to act as the primary resource for data to be used in the benchmarking tests. The directory contains primary pollen and climate data, along with scripts used to transform the data.
 
 ## Pollen Data
 
-### NAMPD
+### North American Modern Pollen Database (NAMPD)
 
-**Source**: Whitmore et al dataset hosted at the LPC, University of Ottawa.
-Link: [LPC website with raw dataset](http://www.lpc.uottawa.ca/data/modern/index.html)
-Link: [Raw dataset as zip](http://www.lpc.uottawa.ca/data/modern/whitmoreetal2005_v1-8.zip)
+**Source**: Whitmore et al. (2005) North American modern pollen dataset hosted by the Laboratory for Paleoclimatology and Climatology at the University of Ottawa
 
-**Publication**: Whitmore, J., Gajewski, K., Sawada, M., Williams, J.W., Minckley, T., Shuman, B., Bartlein, P.J., Webb, T., III, Viau, A.E., Shafer, S., Anderson, P. & Brubaker, L.B. (2005) Modern pollen data from North America and Greenland for multi-scale paleoenvironmental applications. Quaternary Science Reviews 24(16-17):1828-1848. [DOI: 10.1016/j.quascirev.2005.03.005](https://www.sciencedirect.com/science/article/pii/S0277379105000934)
+**Link**: [Link to main main page with dataset](http://www.lpc.uottawa.ca/data/modern/index.html)
+**Link**: [Link to dataset as zip file](http://www.lpc.uottawa.ca/data/modern/whitmoreetal2005_v1-8.zip)
 
-### Neotoma
+**Publication**: Whitmore, J, Gajewski, K, Sawada, M, Williams, JW, Minckley, T, Shuman, B, Bartlein, PJ, Webb, T, III, Viau, AE, Shafer, S, Anderson, P, & Brubaker, LB. 2005. Modern pollen data from North America and Greenland for multi-scale paleoenvironmental applications. *Quaternary Science Reviews* **24**(16-17):1828-1848. [DOI: 10.1016/j.quascirev.2005.03.005](https://www.sciencedirect.com/science/article/pii/S0277379105000934)
+
+### Neotoma Paleoecology Database
 
 **Source**: [Netoma Paleoecological Database](http://neotomadb.org)
 
-Link: 
+**Link**: [neotomadb.org](http://neotomadb.org) 
 
-**Publication**: Williams JW, Grimm EC, Blois JL, Charles DF, Davis EB, Goring SJ, Graham RW, Smith AJ, Anderson M, Arroyo-Cabrales J, Ashworth AC, Betancourt JL, Bills BW, Booth RK, Buckland PI, Curry BB, Giesecke T, Jackson ST, Latorre C, Nichols J, Purdum T, Roth RE, Stryker M, Takahara H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. *Quaternary Research*, 89:156-177. [open access link](https://doi.org/10.1017/qua.2017.105)
+**Publication**: Williams, JW, Grimm, EC, Blois, JL, Charles, DF, Davis, EB, Goring, SJ, Graham, RW, Smith, AJ, Anderson, M, Arroyo-Cabrales, J, Ashworth, AC, Betancourt, JL, Bills, BW, Booth, RK, Buckland, PI, Curry, BB, Giesecke, T, Jackson, ST, Latorre, C, Nichols, J, Purdum, T, Roth, RE, Stryker, M, Takahara, H. 2018. The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. *Quaternary Research*, **89**:156-177. [DOI: 10.1017/qua.2017.105](https://doi.org/10.1017/qua.2017.105)
 
-### BCMPD
+### British Columbia Modern Pollen Database (BCMPD)
 
-Source:
+**Source**: Goring et al. (2009) British Columbia pollen database. 
 
+**Link**:
 
-### European Modern Pollen Database
+**Publication**: Goring, S, Pellatt, MC, Lacourse, T, Walker, IR, Mathewes, RW. 2009. A new methodology for reconstructing climate and vegetation from modern pollen assemblages: an example from British Columbia. *Journal of Biogeography* **36**: 626-638. [DOI: 10.1111/j.1365-2699.2008.02021.x](doi:10.1111/j.1365-2699.2008.02021.x)
+
+### European Modern Pollen Database (EMPD)
 
 **Source**: European Modern Pollen Database hosted by B. Davis group at University of Lausanne.
 
-Flags/Checks: 
+**Link**:
 
+**Flags/Checks**:
+
+**Publication**:
 
 ### African Modern Pollen Database
 
