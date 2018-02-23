@@ -35,20 +35,19 @@ This repository will contain two sets of data; climate data and pollen data. Thi
 
 **Link**:
 
-**Flags/Checks**:
+**Publication**: Davis et al. 2013. The European Modern Pollen Database (EMPD) Project. *Vegetation History and Archaeobotany*. [DOI:  10.1007/s00334-012-0388-5](doi:10.1007/s00334-012-0388-5)
 
-**Publication**:
-
-### African Modern Pollen Database
+### African Modern Pollen Database (AMPD)
 
 **Source**: [Africa Modern Pollen Database](http://fpd.sedoo.fr/fpd/english.do)
 
-**Flags/Checks**: Use the file on github, not the database on the above website
+**Link**: [http://fpd.sedoo.fr/fpd/english.do](http://fpd.sedoo.fr/fpd/english.do)
 
-**Publications**: Gajewski, K, A-M Lezine, A Vincens, A Delestan, M Sawada and APD members. 2002. Climate-vegetation-pollen relations in Africa and adjacent areas. *Quaternary Science Reviews*. 21: 1611-1631. [doi.org/10.1016/S0277-3791(01)00152-4] (https://www.sciencedirect.com/science/article/pii/S0277379101001524)
+**Flags/Checks**: Use the processed file on github, not the database on the above website.
 
-Vincens A, Lézine, A-M, Buchet G, Lewden D, Le Thomas, A, Contributors. 2007. African pollen database inventory of tree and shrub pollen types. *Review of Palaeobotany and Palynology* 145, 135–141. doi:10.1016/j.revpalbo.2006.09.004 
+**Publications**: Gajewski, K, Lezine, AM, Vincens, A, Delestan, A, Sawada, M, and APD members. 2002. Climate-vegetation-pollen relations in Africa and adjacent areas. *Quaternary Science Reviews* **21**: 1611-1631. [DOI: 10.1016/S0277-3791(01)00152-4] (https://www.sciencedirect.com/science/article/pii/S0277379101001524)
 
+Vincens A, Lézine, AM, Buchet, G, Lewden, D, Le Thomas, A, Contributors. 2007. African pollen database inventory of tree and shrub pollen types. *Review of Palaeobotany and Palynology* **145**: 135–141. [DOI: 10.1016/j.revpalbo.2006.09.004] (doi:10.1016/j.revpalbo.2006.09.004) 
 
 ## Climate
 
