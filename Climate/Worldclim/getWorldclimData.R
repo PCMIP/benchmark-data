@@ -1,7 +1,6 @@
 if(!require("raster")){
     install.packages("raster")
 }
-
 library(raster)
 
 
@@ -28,12 +27,6 @@ extractWorldclim=function(xy, table='bio', variable='bio1', resolution=10){
   }
   return(cbind.data.frame(coordinates(xy), extract(climatology, xy)))
 }
-
-
-#xy=data.frame(matrix(c(-75.25, -75.016667, -75.066667, -75.7, -74.933333, -75.95, -82.33, -97.516944, 55.091667, 55.833333, 55.413333, 55.066667, 55.25, 55.116667, 30.83, 29.6),ncol=2,byrow=FALSE))
-
-#extractWorldclim(xy,"bio", c("bio1", "bio12"), 10)
-#extractWorldclim(xy,"bio", c(1,12), 0.5)
 
 whitmoreSS=readRDS("/Users/mchevali1/GitHub/PCMIP/benchmark-data/Pollen/Whitmore/whitmore_pollen.rds")
 
