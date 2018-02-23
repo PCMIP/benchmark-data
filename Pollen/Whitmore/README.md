@@ -4,5 +4,9 @@ Modern pollen data for North America from the Whitmore et al. 2005 pollen databa
 
 These data have been cleaned for testing against climate data. The raw data can be found in the [RAW folder](https://github.com/PCMIP/benchmark-data/tree/master/Pollen/Whitmore/raw). 
 
+## Distribution of sites
+
+![Map](Map.png)
+
 
 
